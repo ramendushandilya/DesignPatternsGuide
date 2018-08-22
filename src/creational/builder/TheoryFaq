@@ -1,0 +1,5 @@
+* Solves multiple constructor problem (telescoping constructors)
+* Static inner class (builder class)
+* Internally required constructor
+* Removes the need for setter
+

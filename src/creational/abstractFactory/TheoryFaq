@@ -1,0 +1,6 @@
+* Almost similar to factory pattern except that it's factory of factories
+
+* Can be easily extended to accommodate
+
+* Is robust and avoid conditional logic of Factory pattern
+

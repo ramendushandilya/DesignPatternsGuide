@@ -1,0 +1,21 @@
+* Prototype pattern says that cloning of an existing object instead of creating new one and can also be customised as per requirement
+
+* This pattern should be followed if the cost of creating new object is expensive and resource intensive
+
+* This pattern mandates that the object which you are copying should provide the copying feature
+
+
+Advantages
+----------
+* Reduced the need of subclassing
+* Hides complexity of creating objects
+* Client can get new objects without knowing which type object it will be
+* It lets you add or remove objects at runtime
+
+Usage
+-----
+* When the classes are instantiated at run time
+* When the cost of creating an object is expensive or complicated
+* When you want to keep the number of classes minimum in an application
+* When the client application needs to be unaware of object creation and representation
+
